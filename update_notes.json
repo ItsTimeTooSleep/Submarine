@@ -1,13 +1,13 @@
 {
     "version": "0.2.3.3",
-    "force_update": true,
+    "force_update": false,
     "notes": "🎉 更新内容：\n\n🔧 功能优化：\n- 优化了自动更新功能\n- 改进了窗口检测逻辑\n- 提升了程序启动速度\n\n🐛 问题修复：\n- 修复了部分窗口无法正确隐藏的问题\n- 修复了快捷键偶尔失效的问题\n- 修复了托盘图标有时不显示的问题\n\n✨ 新增功能：\n- 新增了摸鱼小游戏\n- 新增了更多快捷键设置选项\n- 新增了自动检查更新功能\n\n⚡ 性能提升：\n- 降低了CPU和内存占用\n- 提高了窗口切换速度\n- 优化了日志记录性能",
     "publish_date": "2024-02-01",
     "min_version": "0.2.3.0",
     "assets": [
         {
             "name": "submarine_0.2.3.3.exe",
-            "url": "https://github.com/ItsTimeTooSleep/Submarine/releases/download/v0.2.3.3/submarine_0.2.3.3.exe"
+            "browser_download_url": "https://github.com/ItsTimeTooSleep/Submarine/releases/download/v0.2.3.3/submarine_0.2.3.3.exe"
         }
     ],
     "announcement": {
