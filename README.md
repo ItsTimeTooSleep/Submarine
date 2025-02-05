@@ -132,7 +132,7 @@
 ## 更多帮助 💡
 
 1. **在线支持**
-   - 临时官网：[https://thinkflow.wixsite.com/thinkflow](https://thinkflow.wixsite.com/thinkflow)
+   - 临时官网：[https://github.com/ItsTimeTooSleep/Submarine](https://github.com/ItsTimeTooSleep/Submarine)
    - 邮箱：Itstimetoosleep@outlook.com
    - 更新日志：请在官网查看
 
