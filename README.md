@@ -132,7 +132,7 @@
 ## 更多帮助 💡
 
 1. **在线支持**
-   - 临时官网：[https://github.com/ItsTimeTooSleep/Submarine](https://github.com/ItsTimeTooSleep/Submarine)
+   - 官网：[https://diveintosubmarine-9a2cpi.vercel.app/](https://diveintosubmarine-9a2cpi.vercel.app/)
    - 邮箱：Itstimetoosleep@outlook.com
    - 更新日志：请在官网查看
 
