@@ -121,6 +121,8 @@
 ## ⭐ 给我们一个 Star！
 
 如果你喜欢这个项目，请在 GitHub 上给我们一个 Star！这将激励我们继续改进和维护！
+[![Stargazers repo roster for @ItsTimeTooSleep/Submarine](https://reporoster.com/stars/ItsTimeTooSleep/Submarine)](https://github.com/ItsTimeTooSleep/Submarine/stargazers)
+
 
 ---
 
