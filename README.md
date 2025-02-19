@@ -161,7 +161,7 @@
 
 ### **1. 在线支持**
 
-- 临时官网：[https://diveintosubmarine-astzru.vercel.app/](https://diveintosubmarine-astzru.vercel.app/)
+- 临时官网：[diveintosubmarine-bbkm59.vercel.app](https://diveintosubmarine-bbkm59.vercel.app)
 - 邮箱：[Itstimetoosleep@outlook.com](mailto:Itstimetoosleep@outlook.com)
 
 ### **2. 遇到问题？请写 Issue！**
